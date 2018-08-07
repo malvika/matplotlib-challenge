@@ -4,7 +4,7 @@
 #Steps
 1. Extracting Data from csv files
 2. Mine the data to gather relevant information
-3. Create graphs to visualize the data 
+3. Create graphs to visualize the data
 ----
 
 ### Analysis
@@ -595,7 +595,7 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](SharingData2016.png)
 
 
 
@@ -626,7 +626,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](SharingDataOutput.png)
 
 
 
@@ -642,7 +642,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](TotalFares.png)
 
 
 
@@ -658,7 +658,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![png](TotalRides.png)
 
 
 
@@ -675,4 +675,4 @@ plt.show()
 ```
 
 
-![png](output_14_0.png)
+![png](TotalDrivers.png)
