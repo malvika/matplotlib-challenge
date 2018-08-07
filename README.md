@@ -2,7 +2,7 @@
 ### Pyber Ride Sharing
 
 ## Steps
-1. Extracting Data from csv files
+1. Extract Data from csv files
 2. Mine the data to gather relevant information
 3. Create graphs to visualize the data
 ----
